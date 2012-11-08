@@ -9,6 +9,7 @@ public class Gittest {
 		
 		System.out.println("Detta är en ändring");
 
+		System.out.println("nu är det snart lunch!");
 	}
 
 }
